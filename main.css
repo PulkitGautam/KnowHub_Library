@@ -1,0 +1,36 @@
+html, body{
+    overflow-x: hidden;
+}
+
+#header {
+    background-color: rgba(0,0,0, 0.4);
+}
+
+#title {
+    font-family: 'Segoe UI Black';
+    font-size: 3vw;
+}
+
+#whatsapp {
+    color: #25D366;
+}
+
+#facebook {
+    color: #3b5998;
+}
+
+#twitter {
+    color: #55acee;
+}
+
+#reddit {
+    color: #ff4500;
+}
+
+#instagram {
+    color: #E1306C;
+}
+
+#footer {
+    background: url('images/backg.jpg')
+}
